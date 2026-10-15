@@ -30,6 +30,7 @@ My Leetcode solutions in C++ for DSA and placement preparation
 ## Bit Manipulation
 |  |
 | ------- |
+| [0222-count-complete-tree-nodes](https://github.com/shagunjain8382-boop/Leetcode-Solutions/tree/master/0222-count-complete-tree-nodes) |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/shagunjain8382-boop/Leetcode-Solutions/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 ## Sorting
 |  |
@@ -40,6 +41,7 @@ My Leetcode solutions in C++ for DSA and placement preparation
 |  |
 | ------- |
 | [0199-binary-tree-right-side-view](https://github.com/shagunjain8382-boop/Leetcode-Solutions/tree/master/0199-binary-tree-right-side-view) |
+| [0222-count-complete-tree-nodes](https://github.com/shagunjain8382-boop/Leetcode-Solutions/tree/master/0222-count-complete-tree-nodes) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/shagunjain8382-boop/Leetcode-Solutions/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0662-maximum-width-of-binary-tree](https://github.com/shagunjain8382-boop/Leetcode-Solutions/tree/master/0662-maximum-width-of-binary-tree) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/shagunjain8382-boop/Leetcode-Solutions/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
@@ -63,6 +65,7 @@ My Leetcode solutions in C++ for DSA and placement preparation
 |  |
 | ------- |
 | [0199-binary-tree-right-side-view](https://github.com/shagunjain8382-boop/Leetcode-Solutions/tree/master/0199-binary-tree-right-side-view) |
+| [0222-count-complete-tree-nodes](https://github.com/shagunjain8382-boop/Leetcode-Solutions/tree/master/0222-count-complete-tree-nodes) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/shagunjain8382-boop/Leetcode-Solutions/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0662-maximum-width-of-binary-tree](https://github.com/shagunjain8382-boop/Leetcode-Solutions/tree/master/0662-maximum-width-of-binary-tree) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/shagunjain8382-boop/Leetcode-Solutions/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
@@ -87,4 +90,8 @@ My Leetcode solutions in C++ for DSA and placement preparation
 |  |
 | ------- |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/shagunjain8382-boop/Leetcode-Solutions/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
+## Binary Search
+|  |
+| ------- |
+| [0222-count-complete-tree-nodes](https://github.com/shagunjain8382-boop/Leetcode-Solutions/tree/master/0222-count-complete-tree-nodes) |
 <!---LeetCode Topics End-->
