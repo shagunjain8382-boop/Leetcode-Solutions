@@ -8,6 +8,7 @@ My Leetcode solutions in C++ for DSA and placement preparation
 | ------- |
 | [0435-non-overlapping-intervals](https://github.com/shagunjain8382-boop/Leetcode-Solutions/tree/master/0435-non-overlapping-intervals) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/shagunjain8382-boop/Leetcode-Solutions/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/shagunjain8382-boop/Leetcode-Solutions/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/shagunjain8382-boop/Leetcode-Solutions/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/shagunjain8382-boop/Leetcode-Solutions/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/shagunjain8382-boop/Leetcode-Solutions/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
@@ -44,6 +45,7 @@ My Leetcode solutions in C++ for DSA and placement preparation
 | ------- |
 | [0435-non-overlapping-intervals](https://github.com/shagunjain8382-boop/Leetcode-Solutions/tree/master/0435-non-overlapping-intervals) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/shagunjain8382-boop/Leetcode-Solutions/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/shagunjain8382-boop/Leetcode-Solutions/tree/master/2089-find-target-indices-after-sorting-array) |
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/shagunjain8382-boop/Leetcode-Solutions/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/shagunjain8382-boop/Leetcode-Solutions/tree/master/3727-maximum-alternating-sum-of-squares) |
 ## Tree
@@ -111,6 +113,7 @@ My Leetcode solutions in C++ for DSA and placement preparation
 |  |
 | ------- |
 | [0222-count-complete-tree-nodes](https://github.com/shagunjain8382-boop/Leetcode-Solutions/tree/master/0222-count-complete-tree-nodes) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/shagunjain8382-boop/Leetcode-Solutions/tree/master/2089-find-target-indices-after-sorting-array) |
 ## Linked List
 |  |
 | ------- |
