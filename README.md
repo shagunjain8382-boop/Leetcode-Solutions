@@ -7,6 +7,7 @@ My Leetcode solutions in C++ for DSA and placement preparation
 |  |
 | ------- |
 | [0435-non-overlapping-intervals](https://github.com/shagunjain8382-boop/Leetcode-Solutions/tree/master/0435-non-overlapping-intervals) |
+| [1254-number-of-closed-islands](https://github.com/shagunjain8382-boop/Leetcode-Solutions/tree/master/1254-number-of-closed-islands) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/shagunjain8382-boop/Leetcode-Solutions/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/shagunjain8382-boop/Leetcode-Solutions/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/shagunjain8382-boop/Leetcode-Solutions/tree/master/2778-sum-of-squares-of-special-elements) |
@@ -69,6 +70,7 @@ My Leetcode solutions in C++ for DSA and placement preparation
 | [0662-maximum-width-of-binary-tree](https://github.com/shagunjain8382-boop/Leetcode-Solutions/tree/master/0662-maximum-width-of-binary-tree) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/shagunjain8382-boop/Leetcode-Solutions/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/shagunjain8382-boop/Leetcode-Solutions/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
+| [1254-number-of-closed-islands](https://github.com/shagunjain8382-boop/Leetcode-Solutions/tree/master/1254-number-of-closed-islands) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -76,6 +78,7 @@ My Leetcode solutions in C++ for DSA and placement preparation
 | [0662-maximum-width-of-binary-tree](https://github.com/shagunjain8382-boop/Leetcode-Solutions/tree/master/0662-maximum-width-of-binary-tree) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/shagunjain8382-boop/Leetcode-Solutions/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/shagunjain8382-boop/Leetcode-Solutions/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
+| [1254-number-of-closed-islands](https://github.com/shagunjain8382-boop/Leetcode-Solutions/tree/master/1254-number-of-closed-islands) |
 ## Binary Tree
 |  |
 | ------- |
@@ -136,6 +139,7 @@ My Leetcode solutions in C++ for DSA and placement preparation
 ## Union-Find
 |  |
 | ------- |
+| [1254-number-of-closed-islands](https://github.com/shagunjain8382-boop/Leetcode-Solutions/tree/master/1254-number-of-closed-islands) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/shagunjain8382-boop/Leetcode-Solutions/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 ## Binary Search Tree
 |  |
@@ -158,4 +162,8 @@ My Leetcode solutions in C++ for DSA and placement preparation
 | ------- |
 | [2409-count-days-spent-together](https://github.com/shagunjain8382-boop/Leetcode-Solutions/tree/master/2409-count-days-spent-together) |
 | [3863-minimum-operations-to-sort-a-string](https://github.com/shagunjain8382-boop/Leetcode-Solutions/tree/master/3863-minimum-operations-to-sort-a-string) |
+## Matrix
+|  |
+| ------- |
+| [1254-number-of-closed-islands](https://github.com/shagunjain8382-boop/Leetcode-Solutions/tree/master/1254-number-of-closed-islands) |
 <!---LeetCode Topics End-->
