@@ -15,6 +15,7 @@ My Leetcode solutions in C++ for DSA and placement preparation
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/shagunjain8382-boop/Leetcode-Solutions/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/shagunjain8382-boop/Leetcode-Solutions/tree/master/2916-subarrays-distinct-element-sum-of-squares-ii) |
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/shagunjain8382-boop/Leetcode-Solutions/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
+| [3619-count-islands-with-total-value-divisible-by-k](https://github.com/shagunjain8382-boop/Leetcode-Solutions/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/shagunjain8382-boop/Leetcode-Solutions/tree/master/3727-maximum-alternating-sum-of-squares) |
 | [3942-minimum-operations-to-sort-a-permutation](https://github.com/shagunjain8382-boop/Leetcode-Solutions/tree/master/3942-minimum-operations-to-sort-a-permutation) |
 ## Enumeration
@@ -71,6 +72,7 @@ My Leetcode solutions in C++ for DSA and placement preparation
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/shagunjain8382-boop/Leetcode-Solutions/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/shagunjain8382-boop/Leetcode-Solutions/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1254-number-of-closed-islands](https://github.com/shagunjain8382-boop/Leetcode-Solutions/tree/master/1254-number-of-closed-islands) |
+| [3619-count-islands-with-total-value-divisible-by-k](https://github.com/shagunjain8382-boop/Leetcode-Solutions/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -79,6 +81,7 @@ My Leetcode solutions in C++ for DSA and placement preparation
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/shagunjain8382-boop/Leetcode-Solutions/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/shagunjain8382-boop/Leetcode-Solutions/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1254-number-of-closed-islands](https://github.com/shagunjain8382-boop/Leetcode-Solutions/tree/master/1254-number-of-closed-islands) |
+| [3619-count-islands-with-total-value-divisible-by-k](https://github.com/shagunjain8382-boop/Leetcode-Solutions/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 ## Binary Tree
 |  |
 | ------- |
@@ -141,6 +144,7 @@ My Leetcode solutions in C++ for DSA and placement preparation
 | ------- |
 | [1254-number-of-closed-islands](https://github.com/shagunjain8382-boop/Leetcode-Solutions/tree/master/1254-number-of-closed-islands) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/shagunjain8382-boop/Leetcode-Solutions/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
+| [3619-count-islands-with-total-value-divisible-by-k](https://github.com/shagunjain8382-boop/Leetcode-Solutions/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -166,4 +170,5 @@ My Leetcode solutions in C++ for DSA and placement preparation
 |  |
 | ------- |
 | [1254-number-of-closed-islands](https://github.com/shagunjain8382-boop/Leetcode-Solutions/tree/master/1254-number-of-closed-islands) |
+| [3619-count-islands-with-total-value-divisible-by-k](https://github.com/shagunjain8382-boop/Leetcode-Solutions/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 <!---LeetCode Topics End-->
