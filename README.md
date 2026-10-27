@@ -6,6 +6,7 @@ My Leetcode solutions in C++ for DSA and placement preparation
 ## Array
 |  |
 | ------- |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/shagunjain8382-boop/Leetcode-Solutions/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0435-non-overlapping-intervals](https://github.com/shagunjain8382-boop/Leetcode-Solutions/tree/master/0435-non-overlapping-intervals) |
 | [1254-number-of-closed-islands](https://github.com/shagunjain8382-boop/Leetcode-Solutions/tree/master/1254-number-of-closed-islands) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/shagunjain8382-boop/Leetcode-Solutions/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
@@ -25,6 +26,7 @@ My Leetcode solutions in C++ for DSA and placement preparation
 ## Hash Table
 |  |
 | ------- |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/shagunjain8382-boop/Leetcode-Solutions/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/shagunjain8382-boop/Leetcode-Solutions/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/shagunjain8382-boop/Leetcode-Solutions/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/shagunjain8382-boop/Leetcode-Solutions/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
@@ -54,6 +56,7 @@ My Leetcode solutions in C++ for DSA and placement preparation
 ## Tree
 |  |
 | ------- |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/shagunjain8382-boop/Leetcode-Solutions/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/shagunjain8382-boop/Leetcode-Solutions/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0199-binary-tree-right-side-view](https://github.com/shagunjain8382-boop/Leetcode-Solutions/tree/master/0199-binary-tree-right-side-view) |
 | [0222-count-complete-tree-nodes](https://github.com/shagunjain8382-boop/Leetcode-Solutions/tree/master/0222-count-complete-tree-nodes) |
@@ -85,6 +88,7 @@ My Leetcode solutions in C++ for DSA and placement preparation
 ## Binary Tree
 |  |
 | ------- |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/shagunjain8382-boop/Leetcode-Solutions/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/shagunjain8382-boop/Leetcode-Solutions/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0199-binary-tree-right-side-view](https://github.com/shagunjain8382-boop/Leetcode-Solutions/tree/master/0199-binary-tree-right-side-view) |
 | [0222-count-complete-tree-nodes](https://github.com/shagunjain8382-boop/Leetcode-Solutions/tree/master/0222-count-complete-tree-nodes) |
@@ -138,6 +142,7 @@ My Leetcode solutions in C++ for DSA and placement preparation
 ## Divide and Conquer
 |  |
 | ------- |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/shagunjain8382-boop/Leetcode-Solutions/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/shagunjain8382-boop/Leetcode-Solutions/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 ## Union-Find
 |  |
