@@ -66,6 +66,7 @@ My Leetcode solutions in C++ for DSA and placement preparation
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/shagunjain8382-boop/Leetcode-Solutions/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/shagunjain8382-boop/Leetcode-Solutions/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/shagunjain8382-boop/Leetcode-Solutions/tree/master/0114-flatten-binary-tree-to-linked-list) |
+| [0144-binary-tree-preorder-traversal](https://github.com/shagunjain8382-boop/Leetcode-Solutions/tree/master/0144-binary-tree-preorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/shagunjain8382-boop/Leetcode-Solutions/tree/master/0199-binary-tree-right-side-view) |
 | [0222-count-complete-tree-nodes](https://github.com/shagunjain8382-boop/Leetcode-Solutions/tree/master/0222-count-complete-tree-nodes) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/shagunjain8382-boop/Leetcode-Solutions/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
@@ -79,6 +80,7 @@ My Leetcode solutions in C++ for DSA and placement preparation
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/shagunjain8382-boop/Leetcode-Solutions/tree/master/0094-binary-tree-inorder-traversal) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/shagunjain8382-boop/Leetcode-Solutions/tree/master/0114-flatten-binary-tree-to-linked-list) |
+| [0144-binary-tree-preorder-traversal](https://github.com/shagunjain8382-boop/Leetcode-Solutions/tree/master/0144-binary-tree-preorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/shagunjain8382-boop/Leetcode-Solutions/tree/master/0199-binary-tree-right-side-view) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/shagunjain8382-boop/Leetcode-Solutions/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0662-maximum-width-of-binary-tree](https://github.com/shagunjain8382-boop/Leetcode-Solutions/tree/master/0662-maximum-width-of-binary-tree) |
@@ -103,6 +105,7 @@ My Leetcode solutions in C++ for DSA and placement preparation
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/shagunjain8382-boop/Leetcode-Solutions/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/shagunjain8382-boop/Leetcode-Solutions/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/shagunjain8382-boop/Leetcode-Solutions/tree/master/0114-flatten-binary-tree-to-linked-list) |
+| [0144-binary-tree-preorder-traversal](https://github.com/shagunjain8382-boop/Leetcode-Solutions/tree/master/0144-binary-tree-preorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/shagunjain8382-boop/Leetcode-Solutions/tree/master/0199-binary-tree-right-side-view) |
 | [0222-count-complete-tree-nodes](https://github.com/shagunjain8382-boop/Leetcode-Solutions/tree/master/0222-count-complete-tree-nodes) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/shagunjain8382-boop/Leetcode-Solutions/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
@@ -150,6 +153,7 @@ My Leetcode solutions in C++ for DSA and placement preparation
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/shagunjain8382-boop/Leetcode-Solutions/tree/master/0094-binary-tree-inorder-traversal) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/shagunjain8382-boop/Leetcode-Solutions/tree/master/0114-flatten-binary-tree-to-linked-list) |
+| [0144-binary-tree-preorder-traversal](https://github.com/shagunjain8382-boop/Leetcode-Solutions/tree/master/0144-binary-tree-preorder-traversal) |
 ## Dynamic Programming
 |  |
 | ------- |
