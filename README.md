@@ -9,6 +9,7 @@ My Leetcode solutions in C++ for DSA and placement preparation
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/shagunjain8382-boop/Leetcode-Solutions/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/shagunjain8382-boop/Leetcode-Solutions/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0435-non-overlapping-intervals](https://github.com/shagunjain8382-boop/Leetcode-Solutions/tree/master/0435-non-overlapping-intervals) |
+| [0453-minimum-moves-to-equal-array-elements](https://github.com/shagunjain8382-boop/Leetcode-Solutions/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [1254-number-of-closed-islands](https://github.com/shagunjain8382-boop/Leetcode-Solutions/tree/master/1254-number-of-closed-islands) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/shagunjain8382-boop/Leetcode-Solutions/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/shagunjain8382-boop/Leetcode-Solutions/tree/master/2089-find-target-indices-after-sorting-array) |
@@ -118,6 +119,7 @@ My Leetcode solutions in C++ for DSA and placement preparation
 ## Math
 |  |
 | ------- |
+| [0453-minimum-moves-to-equal-array-elements](https://github.com/shagunjain8382-boop/Leetcode-Solutions/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/shagunjain8382-boop/Leetcode-Solutions/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [2409-count-days-spent-together](https://github.com/shagunjain8382-boop/Leetcode-Solutions/tree/master/2409-count-days-spent-together) |
 | [3723-maximize-sum-of-squares-of-digits](https://github.com/shagunjain8382-boop/Leetcode-Solutions/tree/master/3723-maximize-sum-of-squares-of-digits) |
